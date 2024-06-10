@@ -1,0 +1,461 @@
+[{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1800,
+  "location":"A",
+  "sale_price":250000
+},
+{
+  "bedrooms":4,
+  "bathrooms":3,
+  "squarefootage":2200,
+  "location":"B",
+  "sale_price":320000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1,
+  "squarefootage":1200,
+  "location":"A",
+  "sale_price":180000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2.5,
+  "squarefootage":2000,
+  "location":"C",
+  "sale_price":280000
+},
+{
+  "bedrooms":4,
+  "bathrooms":2.5,
+  "squarefootage":2400,
+  "location":"B",
+  "sale_price":350000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1900,
+  "location":"C",
+  "sale_price":260000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1.5,
+  "squarefootage":1400,
+  "location":"A",
+  "sale_price":200000
+},
+{
+  "bedrooms":4,
+  "bathrooms":3,
+  "squarefootage":2300,
+  "location":"B",
+  "sale_price":330000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2.5,
+  "squarefootage":2100,
+  "location":"C",
+  "sale_price":290000
+},{
+  "bedrooms":1,
+  "bathrooms":1,
+  "squarefootage":900,
+  "location":"A",
+  "sale_price":150000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1.5,
+  "squarefootage":1200,
+  "location":"C",
+  "sale_price":170000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1800,
+  "location":"B",
+  "sale_price":250000
+},
+{
+  "bedrooms":4,
+  "bathrooms":3,
+  "squarefootage":2200,
+  "location":"A",
+  "sale_price":320000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1,
+  "squarefootage":1000,
+  "location":"B",
+  "sale_price":190000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2.5,
+  "squarefootage":2000,
+  "location":"C",
+  "sale_price":280000
+},
+{
+  "bedrooms":4,
+  "bathrooms":2.5,
+  "squarefootage":2400,
+  "location":"A",
+  "sale_price":350000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1900,
+  "location":"C",
+  "sale_price":260000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1.5,
+  "squarefootage":1400,
+  "location":"B",
+  "sale_price":200000
+},
+{
+  "bedrooms":4,
+  "bathrooms":3,
+  "squarefootage":2300,
+  "location":"A",
+  "sale_price":330000
+},
+{
+  "bedrooms":1,
+  "bathrooms":1,
+  "squarefootage":900,
+  "location":"B",
+  "sale_price":150000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1.5,
+  "squarefootage":1200,
+  "location":"A",
+  "sale_price":170000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1800,
+  "location":"B",
+  "sale_price":250000
+},
+{
+  "bedrooms":4,
+  "bathrooms":3,
+  "squarefootage":2200,
+  "location":"C",
+  "sale_price":320000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1,
+  "squarefootage":1000,
+  "location":"A",
+  "sale_price":190000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2.5,
+  "squarefootage":2000,
+  "location":"B",
+  "sale_price":280000
+},
+{
+  "bedrooms":4,
+  "bathrooms":2.5,
+  "squarefootage":2400,
+  "location":"C",
+  "sale_price":350000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1900,
+  "location":"A",
+  "sale_price":260000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1.5,
+  "squarefootage":1400,
+  "location":"B",
+  "sale_price":200000
+},
+{
+  "bedrooms":4,
+  "bathrooms":3,
+  "squarefootage":2300,
+  "location":"C",
+  "sale_price":330000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2.5,
+  "squarefootage":2100,
+  "location":"A",
+  "sale_price":290000
+},
+{
+  "bedrooms":1,
+  "bathrooms":1,
+  "squarefootage":900,
+  "location":"B",
+  "sale_price":150000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1.5,
+  "squarefootage":1200,
+  "location":"C",
+  "sale_price":170000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1800,
+  "location":"A",
+  "sale_price":250000
+},
+{
+  "bedrooms":4,
+  "bathrooms":3,
+  "squarefootage":2200,
+  "location":"B",
+  "sale_price":320000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1,
+  "squarefootage":1000,
+  "location":"A",
+  "sale_price":190000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2.5,
+  "squarefootage":2000,
+  "location":"C",
+  "sale_price":280000
+},
+{
+  "bedrooms":4,
+  "bathrooms":2.5,
+  "squarefootage":2400,
+  "location":"B",
+  "sale_price":350000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1900,
+  "location":"C",
+  "sale_price":260000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1.5,
+  "squarefootage":1400,
+  "location":"A",
+  "sale_price":200000
+},
+{
+  "bedrooms":4,
+  "bathrooms":3,
+  "squarefootage":2300,
+  "location":"B",
+  "sale_price":330000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2.5,
+  "squarefootage":2100,
+  "location":"C",
+  "sale_price":290000
+},
+{
+  "bedrooms":1,
+  "bathrooms":1,
+  "squarefootage":900,
+  "location":"A",
+  "sale_price":150000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1.5,
+  "squarefootage":1200,
+  "location":"C",
+  "sale_price":170000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1800,
+  "location":"B",
+  "sale_price":250000
+},
+{
+  "bedrooms":4,
+  "bathrooms":3,
+  "squarefootage":2200,
+  "location":"A",
+  "sale_price":320000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1,
+  "squarefootage":1000,
+  "location":"B",
+  "sale_price":190000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2.5,
+  "squarefootage":2000,
+  "location":"C",
+  "sale_price":280000
+},
+{
+  "bedrooms":4,
+  "bathrooms":2.5,
+  "squarefootage":2400,
+  "location":"A",
+  "sale_price":350000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1900,
+  "location":"C",
+  "sale_price":260000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1.5,
+  "squarefootage":1400,
+  "location":"B",
+  "sale_price":200000
+},
+{
+  "bedrooms":4,
+  "bathrooms":3,
+  "squarefootage":2300,
+  "location":"A",
+  "sale_price":330000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2.5,
+  "squarefootage":2100,
+  "location":"C",
+  "sale_price":290000
+},
+{
+  "bedrooms":1,
+  "bathrooms":1,
+  "squarefootage":900,
+  "location":"B",
+  "sale_price":150000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1.5,
+  "squarefootage":1200,
+  "location":"A",
+  "sale_price":170000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1800,
+  "location":"B",
+  "sale_price":250000
+},
+{
+  "bedrooms":4,
+  "bathrooms":3,
+  "squarefootage":2200,
+  "location":"C",
+  "sale_price":320000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1,
+  "squarefootage":1000,
+  "location":"A",
+  "sale_price":190000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2.5,
+  "squarefootage":2000,
+  "location":"B",
+  "sale_price":280000
+},
+{
+  "bedrooms":4,
+  "bathrooms":2.5,
+  "squarefootage":2400,
+  "location":"C",
+  "sale_price":350000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1900,
+  "location":"A",
+  "sale_price":260000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1.5,
+  "squarefootage":1400,
+  "location":"B",
+  "sale_price":200000
+},
+{
+  "bedrooms":4,
+  "bathrooms":3,
+  "squarefootage":2300,
+  "location":"C",
+  "sale_price":330000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2.5,
+  "squarefootage":2100,
+  "location":"A",
+  "sale_price":290000
+},{
+  "bedrooms":1,
+  "bathrooms":1,
+  "squarefootage":900,
+  "location":"B",
+  "sale_price":150000
+},
+{
+  "bedrooms":2,
+  "bathrooms":1.5,
+  "squarefootage":1200,
+  "location":"C",
+  "sale_price":170000
+},
+{
+  "bedrooms":3,
+  "bathrooms":2,
+  "squarefootage":1800,
+  "location":"B",
+  "sale_price":250000
+}
+]
